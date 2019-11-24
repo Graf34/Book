@@ -1,0 +1,46 @@
+.message{
+    border:1px solid;
+    width: 25%;
+    margin-bottom: 0.5%;
+}
+
+.date{
+    float: left;
+    margin: 3%;
+    width: 55%;
+}
+.name{
+    text-align: right;
+    width: 33%;
+    margin: 3%;
+    float: right;
+}
+
+.text{
+    margin: 3%;
+}
+hr{
+    float: left;
+    width: 25%;
+}
+.nameform{
+    width: 12.5%;
+    border:1px solid;
+}
+
+textarea{
+    width: 25%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    height: 60px;
+    resize: none;
+    border:1px solid;
+}
+
+.submit{
+    font-size: 18px;
+    border-radius: 4px;
+    border:1px solid;
+    margin-left: 8%;
+    width: 9% ;
+}
